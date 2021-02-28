@@ -1,0 +1,7 @@
+.artist-box {
+    float: left;
+    text-align: center;
+    border: blueviolet;
+    border-width: 2px;
+    padding: 2px;
+}
